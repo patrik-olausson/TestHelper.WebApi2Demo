@@ -1,0 +1,4 @@
+﻿{
+  "ImportantProperty": "DefaultImportantProperty",
+  "NotSoImportantProperty": "DefaultNotSoImportantProperty"
+}
